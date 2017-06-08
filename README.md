@@ -1,4 +1,4 @@
-##Home Assistant
+## Home Assistant
 
 Example [Home Assistant](https://home-assistant.io/) Home Assistant Configs
 
