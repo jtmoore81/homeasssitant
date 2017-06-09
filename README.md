@@ -1,6 +1,6 @@
 ## Home Assistant
 
-Example [Home Assistant](https://home-assistant.io/) Configs
+[Home Assistant](https://home-assistant.io/) Website
 
 Home Assistant Version: 0.46.0
 
