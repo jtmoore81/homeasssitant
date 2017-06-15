@@ -30,3 +30,4 @@ Home Assistant Version: 0.46.0
 ## Software
 * [iOS App](https://home-assistant.io/docs/ecosystem/ios/)
 * [Kodi](https://kodi.tv/)
+* [BrewPi](https://www.brewpi.com/)
