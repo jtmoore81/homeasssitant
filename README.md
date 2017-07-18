@@ -7,7 +7,7 @@ Home Assistant Version: 0.48.1
 ## Devices or Hardware
 
 * [Synology DS1515+](https://www.synology.com/en-us)
-* [Alexa] (https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-Alexa-Black/dp/B00X4WHP5E/ref=sr_1_2?ie=UTF8&qid=1500399468&sr=8-2&keywords=alexa)
+* [Alexa](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-Alexa-Black/dp/B00X4WHP5E/ref=sr_1_2?ie=UTF8&qid=1500399468&sr=8-2&keywords=alexa)
 * [Wink](https://www.wink.com/)
 * [Z Wave Stick](https://www.amazon.com/dp/B00X0AWA6E/ref=sr_ph_1?ie=UTF8&qid=1496952949&sr=sr-1&keywords=aeotec)
 * [Z Wave Multisensor](https://www.amazon.com/gp/product/B00WMEVRRW/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
