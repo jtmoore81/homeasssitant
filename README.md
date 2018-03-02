@@ -35,3 +35,5 @@ Home Assistant Version: 0.64.0
 * [iOS App](https://home-assistant.io/docs/ecosystem/ios/)
 * [Kodi](https://kodi.tv/)
 * [BrewPi](https://www.brewpi.com/)
+* [FloorPlan](https://github.com/pkozul/ha-floorplan)
+
