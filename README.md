@@ -7,6 +7,7 @@ Home Assistant Version: 0.65.6
 ## Devices or Hardware
 
 * [Synology DS1515+](https://www.synology.com/en-us)
+* [Raspberry Pi 3 B+](https://www.amazon.com/Element14-RPI-Model-PLUS-Motherboard/dp/B07BDR5PDW/ref=sr_1_3?ie=UTF8&qid=1524074609&sr=8-3&keywords=raspberry+pi+3+b%2B)
 * [Alexa](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-Alexa-Black/dp/B00X4WHP5E/ref=sr_1_2?ie=UTF8&qid=1500399468&sr=8-2&keywords=alexa)
 * [Wink](https://www.wink.com/)
 * [Z Wave Stick](https://www.amazon.com/dp/B00X0AWA6E/ref=sr_ph_1?ie=UTF8&qid=1496952949&sr=sr-1&keywords=aeotec)
