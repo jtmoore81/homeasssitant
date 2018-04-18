@@ -2,7 +2,7 @@
 
 [Home Assistant](https://home-assistant.io/) Website
 
-Home Assistant Version: 0.65.3
+Home Assistant Version: 0.65.6
 
 ## Devices or Hardware
 
@@ -36,4 +36,5 @@ Home Assistant Version: 0.65.3
 * [Kodi](https://kodi.tv/)
 * [BrewPi](https://www.brewpi.com/)
 * [FloorPlan](https://github.com/pkozul/ha-floorplan)
+* [Pi-Hole](https://pi-hole.net/)
 
