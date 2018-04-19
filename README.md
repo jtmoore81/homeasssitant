@@ -18,6 +18,7 @@ Home Assistant Version: 0.65.6
 * [Z-Wave Minimote](https://www.amazon.com/gp/product/B00KU7ERAW/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 * [Z-Wave Wall-Mount Dimmer Switch](https://www.amazon.com/gp/product/B00E1OVFAK/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 * [Dual Z-Wave Plug](https://www.amazon.com/gp/product/B01K6J1Y1I/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+* [Z-Wave Plus PIR Motion Detector with Temperature Sensor](https://www.monoprice.com/product?p_id=15271)
 * [GE Z-Wave Wireless Smart Lighting](https://www.amazon.com/gp/product/B0013V8K3O/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 * [Osram LED Flex Light Strip ](https://www.amazon.com/gp/product/B00R1PB80I/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 * [SYLVANIA LIGHTIFY](https://www.amazon.com/gp/product/B0196M5YAS/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
