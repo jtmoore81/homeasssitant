@@ -31,7 +31,7 @@ Home Assistant Version: 0.65.6
 * [Harmony Hub](https://www.amazon.com/gp/product/B00N3RFC4Q/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
 * [Amazon Echo](https://www.amazon.com/gp/product/B00X4WHP5E/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
 * [GE Z-Wave Wireless Smart Lighting Control Outdoor Module](https://www.amazon.com/gp/product/B0013V8K3O/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
-
+* [Ring](https://www.amazon.com/dp/B00N2ZDXW2?aaxitk=Az-badYdxbhRWWyq0nzdkA&pd_rd_i=B00N2ZDXW2&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3534726502&pd_rd_wg=z9Dcv&pf_rd_r=E3GPVN1TNG4EHEDD8DT7&pf_rd_s=desktop-sx-top-slot&pf_rd_t=301&pd_rd_w=W3Tf0&pf_rd_i=ring&pd_rd_r=156dd7c0-3410-414e-92ff-6038b2fca359&hsa_cr_id=5118366220201)
 
 ## Software
 * [iOS App](https://home-assistant.io/docs/ecosystem/ios/)
