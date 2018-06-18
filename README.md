@@ -2,7 +2,7 @@
 
 [Home Assistant](https://home-assistant.io/) Website
 
-Home Assistant Version: 0.69.1
+Home Assistant Version: 0.71.0
 
 ## Devices or Hardware
 
