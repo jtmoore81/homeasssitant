@@ -37,7 +37,7 @@ Home Assistant Version: 0.93.1
 ## Software
 * [iOS App](https://home-assistant.io/docs/ecosystem/ios/)
 * [Kodi](https://kodi.tv/)
-* [BrewPi](https://www.brewpi.com/)
+* [Node-Red](https://nodered.org/)
 * [FloorPlan](https://github.com/pkozul/ha-floorplan)
 * [Pi-Hole](https://pi-hole.net/)
 
